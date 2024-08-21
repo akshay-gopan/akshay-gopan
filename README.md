@@ -1,6 +1,7 @@
 # Hi there👋, I'm Akshay Gopan
 ### I like to work on MERN stack and Python projects. <br>
-Reach me at akshaygopan377@gmail.com
+#### Reach me at  akshaygopan377@gmail.com
+#### My Portfolio  akshaygopan.xyz
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaygopanofficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akshay_gopan_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay_gopn) 
